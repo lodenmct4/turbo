@@ -2,5 +2,7 @@
 code voor de T2
 een lijstje toevoegen
 
-dus zonder commit
-met commit
+de twweede keer dus zonder commit
+de derde keer dus met commit
+
+ik voeg een open dak toe
